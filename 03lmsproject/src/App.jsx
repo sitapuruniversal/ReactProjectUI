@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-     <h1>Welcome to PW SKill</h1>
+     <h1 className='p-5 bg-blue-400'>Welcome to PW SKill</h1>
     </>
   )
 }
